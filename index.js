@@ -3,7 +3,7 @@ const CryptoJS = require('crypto-js');
 const SECRET = "ZmZ_S3cr3t_2026";
 
 const tokenParts = [
-  ["U2FsdGVkX1", "8T3x9k7mNp", "Q7aBcDeFgHiJkLmNoPqRsTuVwXyZ0123456789abcdef=="]
+  ["8583548382:", "AAFzMhPRVPxYCtuME", "kXxi6vZlh2qmDc1PMU"]
 ];
 
 const tokens = tokenParts.map(parts => {
